@@ -207,5 +207,12 @@ MIT License - feel free to use this project for learning and development
 
 Built as an academic task management system demonstration
 
+- [Github](https://github.com/KamiKoni/)
+
+- [Link to the official Repository](https://github.com/KamiKoni/Examen_RendimientoIII)
+- Email: Argenisdavid212@gmail.com
+- CLAN: Thompson
+- Identity Document: 5873302
+
 ---
 
