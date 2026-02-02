@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex Morgan",
+      "email": "admin@crudzaso.com",
+      "password": "admin123",
+      "role": "admin",
+      "jobTitle": "Product Designer",
+      "avatar": "AM",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Lin",
+      "email": "sarah@crudzaso.com",
+      "password": "user123",
+      "role": "user",
+      "jobTitle": "Developer",
+      "avatar": "SL",
+      "createdAt": "2024-01-02T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Raj Patel",
+      "email": "raj@crudzaso.com",
+      "password": "user123",
+      "role": "user",
+      "jobTitle": "Backend Engineer",
+      "avatar": "RP",
+      "createdAt": "2024-01-03T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Michelle O.",
+      "email": "michelle@crudzaso.com",
+      "password": "user123",
+      "role": "user",
+      "jobTitle": "QA Engineer",
+      "avatar": "MO",
+      "createdAt": "2024-01-04T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "name": "Carlos M.",
+      "email": "carlos@crudzaso.com",
+      "password": "user123",
+      "role": "user",
+      "jobTitle": "DevOps",
+      "avatar": "CM",
+      "createdAt": "2024-01-05T00:00:00.000Z"
+    },
+    {
+      "name": "Jane doe",
+      "email": "jane@doe.edu",
+      "password": "johndoe",
+      "role": "user",
+      "avatar": "JD",
+      "jobTitle": "User",
+      "createdAt": "2026-02-02T13:39:49.569Z",
+      "id": 6
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Update Documentation",
+      "description": "Review and update the project documentation for Q4",
+      "status": "in progress",
+      "priority": "medium",
+      "userId": 2,
+      "assignee": "Sarah Lin",
+      "createdAt": "2023-10-20T10:00:00.000Z",
+      "dueDate": "2023-10-24"
+    },
+    {
+      "id": 2,
+      "title": "Fix Login Authentication",
+      "description": "Resolve the OAuth login issue reported by users",
+      "status": "pending",
+      "priority": "high",
+      "userId": 3,
+      "assignee": "Raj Patel",
+      "createdAt": "2023-10-21T09:00:00.000Z",
+      "dueDate": "2023-10-22"
+    },
+    {
+      "id": 3,
+      "title": "Quarterly Review",
+      "description": "Complete the quarterly review presentation",
+      "status": "completed",
+      "priority": "low",
+      "userId": 4,
+      "assignee": "Michelle O.",
+      "createdAt": "2023-10-15T14:00:00.000Z",
+      "dueDate": "2023-10-20"
+    },
+    {
+      "id": 4,
+      "title": "Database Optimization",
+      "description": "Optimize database queries for better performance",
+      "status": "in progress",
+      "priority": "high",
+      "userId": 5,
+      "assignee": "Carlos M.",
+      "createdAt": "2023-10-22T11:00:00.000Z",
+      "dueDate": "2023-10-25"
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Improvements",
+      "description": "Implement new design system components",
+      "status": "pending",
+      "priority": "medium",
+      "userId": 2,
+      "assignee": "Sarah Lin",
+      "createdAt": "2023-10-23T08:00:00.000Z",
+      "dueDate": "2023-10-30"
+    },
+    {
+      "title": "hiiiiiiiiiiiiiiii",
+      "description": "idk",
+      "status": "pending",
+      "priority": "low",
+      "dueDate": "2007-02-08",
+      "userId": 6,
+      "assignee": "Jane doe",
+      "createdAt": "2026-02-02T13:40:22.694Z",
+      "id": 6
+    }
+  ]
+}
